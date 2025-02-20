@@ -1,4 +1,4 @@
-## Olauncher - RinLauncher
+## RinLauncher
 
 a personal Olauncher fork.
 
