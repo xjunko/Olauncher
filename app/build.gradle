@@ -14,13 +14,14 @@ android {
     }
 
     defaultConfig {
-        applicationId "app.olauncher"
+        applicationId "me.rinari.wife"
         minSdkVersion 24
+        //noinspection OldTargetApi
         targetSdkVersion 34
         versionCode 88
-        versionName "v4.3.5"
+        versionName "v0.0.2"
 
-        resourceConfigurations += ["en", "ar", "de", "es-rES", "es-rUS", "fr", "hr", "hu", "in", "it", "ja", "pl", "pt-rBR", "ru-rRU", "sv", "tr", "uk", "zh"]
+        resourceConfigurations += ["en"]
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
